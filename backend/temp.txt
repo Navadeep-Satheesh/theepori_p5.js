@@ -1,0 +1,9 @@
+INSERT INTO rooms ( room_id , room_name, room_location, capacity) VALUES
+(1 , 'CETAA', 'ME', 200),
+(2 , 'Dhwani', 'Dhwani Stage', 600),
+(3 , 'Sargam', 'ME', 50),
+(4 , 'CGPU hall', 'ME', 100),
+(5 , 'Gazebo', 'Gazebo', 50),
+(6 , 'CS seminar hall', 'CS', 75),
+(7 , 'DJ hall', 'DJ hall', 300),
+(8 , 'EC seminar hall', 'EC', 75);
